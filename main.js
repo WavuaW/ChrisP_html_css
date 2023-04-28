@@ -53,3 +53,5 @@ const sortedCompanies = companies.sort(function(c1, c2) {
 });
 
 console.log(sortedCompanies)
+
+?? this is just a bit of testing
